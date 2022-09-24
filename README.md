@@ -25,3 +25,4 @@ Elasticsearch has one issue with user with UID and GUID 999, so we used a differ
 
 ## In case of questions, please get in touch
 jpmaida@redhat.com
+david.sf026@gmail.com
